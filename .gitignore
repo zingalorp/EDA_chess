@@ -1,0 +1,11 @@
+*
+
+!notebooks/
+!notebooks/*.ipynb
+
+!processing/
+!processing/*.py
+
+!.gitignore
+
+!README.md
